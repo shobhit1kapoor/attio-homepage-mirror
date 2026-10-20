@@ -1,0 +1,9 @@
+{
+  "name": "attio-homepage-mirror",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "mirror:attio": "node scripts/mirror-attio.mjs",
+    "start:attio": "node scripts/serve-attio.mjs"
+  }
+}
